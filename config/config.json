@@ -2,7 +2,7 @@
     "development": {
         "host" : "localhost",
         "username" : "root",
-        "password" : "123456",
+        "password" : "*$um@nt#?+6",
         "database" : "ecommerce",
         "dialect" : "mysql",
         "pool" :{
@@ -27,9 +27,9 @@
     },
     "production": {
         "host" : "sql6.freemysqlhosting.net",
-        "username" : "sql6528210",
-        "password" : "if6C7MIpjl",
-        "database" : "sql6528210",
+        "username" : "sql6528246",
+        "password" : "L5Q71bLA3m",
+        "database" : "sql6528246",
         "dialect" : "mysql",
         "pool" :{
             "max" :5,
